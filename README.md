@@ -1,2 +1,5 @@
 # Sound-Cloud-Playlist
-VanillaJS
+
+A toy vanillaJS project. 
+Soundcloud API used.
+
